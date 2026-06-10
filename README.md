@@ -1,17 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Dundigalla%20Rithwik%20Mohan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=aaaaff" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Dundigalla%20Rithwik%20Mohan&fontSize=50&fontColor=00f2fe&animation=twinkling&desc=AI%2FML%20%7C%20Full-Stack%20Developer&descAlignY=65&descSize=18&descColor=ffffff" alt="Header Banner" />
+
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=7B8EFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Generative+AI+%7C+FastAPI+%7C+MCP+Servers;MERN+Stack+%7C+Flutter+%7C+REST+APIs;CBIT+IT+%7C+CGPA+9.18+%7C+Azure+Certified;350%2B+LeetCode+%7C+Hackathon+Winner;AI+Automations+%7C+Open+to+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Generative+AI+%7C+FastAPI+%7C+MCP+Servers;MERN+Stack+%7C+Flutter+%7C+REST+APIs;CBIT+IT+%7C+CGPA+9.18+%7C+Azure+Certified;350%2B+LeetCode+%7C+Hackathon+Winner;AI+Automations+%7C+Open+to+Internships" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=RithwikMohan&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RithwikMohan&color=7B8EFF&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithwik-mohan/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RithwikMohan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rizwik475@gmail.com)
+<a href="https://www.linkedin.com/in/rithwik-mohan/">
+  <img src="https://img.shields.io/badge/LinkedIn-090b11?style=for-the-badge&logo=linkedin&logoColor=00f2fe&labelColor=151a26" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/RithwikMohan">
+  <img src="https://img.shields.io/badge/GitHub-090b11?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=151a26" alt="GitHub"/>
+</a>
+<a href="mailto:rizwik475@gmail.com">
+  <img src="https://img.shields.io/badge/Email-090b11?style=for-the-badge&logo=gmail&logoColor=00f2fe&labelColor=151a26" alt="Email"/>
+</a>
 
 </div>
 
@@ -19,14 +30,14 @@
 
 ## ⚡ About Me
 
-```javascript
-const rithwik = {
-  education: "B.Tech IT - CBIT, Hyderabad",
-  cgpa: 9.18,
-  focus: ["Generative AI", "Full-Stack Development", "MCP Architectures"],
-  hobbies: ["LeetCode Problem Solving", "Hackathons"],
-  solved: "350+ LeetCode Challenges"
-};
+```python
+rithwik = {
+    "education" : "CBIT Hyderabad (B.Tech IT)",
+    "cgpa"      : 9.18,
+    "skills"    : ["PyTorch", "FastAPI", "React.js", "n8n", "MCP"],
+    "goals"     : "Automating enterprise agentic workflows",
+    "leetcode"  : "350+ problems"
+}
 ```
 
 ---
